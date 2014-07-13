@@ -11,13 +11,15 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             //Массив (букет) цветов
-            Flower[] flowers = new Flower[5]
+            Flower[] flowers = new Flower[7]
             {
                 new Rose("",120,20),
                 new Lily("",100,25),
                 new Iris("",90,30),
+                new Tulpan("",110,30),
+                new Iris("",90,30),
                 new Rose("",150,26),
-                new Iris("",120,40)
+                new Gvozdika("",120,35)
             };
  
             Console.WriteLine("***** Букет цветов *****\n");
@@ -25,6 +27,15 @@ namespace ConsoleApplication1
             {
                 f.Show();
             }
+
+            int Stoimost=0;
+                        
+            foreach (Flower f in flowers)
+            {
+                Stoimost = Stoimost + f.Cost;
+            }
+            Console.WriteLine("***** Стоимость данного букета=" + Stoimost+ " руб. *****\n");
+
             Console.ReadLine();
         }
     }
