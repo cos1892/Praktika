@@ -13,13 +13,13 @@ namespace ConsoleApplication1
             //Массив (букет) цветов
             Flower[] flowers = new Flower[7]
             {
-                new Rose("",120,20),
-                new Lily("",100,25),
-                new Iris("",90,30),
+                new Rose("",100,20),
+                new Lily("",90,25),
+                new Iris("",140,30),
                 new Tulpan("",110,30),
-                new Iris("",90,30),
-                new Rose("",150,26),
-                new Gvozdika("",120,35)
+                new Alstromeria("",150,30),
+                new Hrizantema("",120,25),
+                new Gvozdika("",110,35)
             };
  
             Console.WriteLine("***** Букет цветов *****\n");

@@ -10,3 +10,9 @@ D:\Учёба\2-ой курс\Летняя практика\Задание 1 - �
 D:\Учёба\2-ой курс\Летняя практика\Задание 1 - Цветы\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 D:\Учёба\2-ой курс\Летняя практика\Задание 1 - Цветы\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 D:\Учёба\2-ой курс\Летняя практика\Задание 1 - Цветы\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Учёба\2-ой курс\Летняя практика\Задание1_Цветы\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Учёба\2-ой курс\Летняя практика\Задание1_Цветы\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Учёба\2-ой курс\Летняя практика\Задание1_Цветы\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Учёба\2-ой курс\Летняя практика\Задание1_Цветы\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Учёба\2-ой курс\Летняя практика\Задание1_Цветы\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Учёба\2-ой курс\Летняя практика\Задание1_Цветы\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
