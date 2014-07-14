@@ -21,8 +21,17 @@ namespace ConsoleApplication1
                 new Hrizantema("",120,25),
                 new Gvozdika("",110,35)
             };
- 
-            Console.WriteLine("***** Букет цветов *****\n");
+
+            Console.WriteLine("***** Букет цветов несортированный *****\n");
+            foreach (Flower f in flowers)
+            {
+                f.Show();
+            }
+
+            //Сортируем массив
+            Array.Sort(flowers);
+
+            Console.WriteLine("***** Букет цветов отсортированный *****\n");
             foreach (Flower f in flowers)
             {
                 f.Show();
