@@ -10,9 +10,19 @@ namespace ConsoleApplication1
     {
         //Конструктор
         public Rose(string name, int cost, int stalk)
-            : base(name, cost, stalk) 
+            : base(name, cost, stalk) { }
+
+        public override string Name
         {
-            this.Name = "Роза"; 
+            get
+            {
+                return base.Name;
+            }
+            set
+            {
+                base.Name = "Роза";
+            }
         }
+
     }
 }

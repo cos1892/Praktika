@@ -10,9 +10,18 @@ namespace ConsoleApplication1
     {
         //Конструктор
         public Iris(string name, int cost, int stalk)
-            : base(name, cost, stalk)
+            : base(name, cost, stalk) { }
+
+        public override string Name
         {
-            this.Name = "Ирис";
+            get
+            {
+                return base.Name;
+            }
+            set
+            {
+                base.Name = "Ирис";
+            }
         }
     }
 }

@@ -9,7 +9,7 @@ namespace ConsoleApplication1
     public abstract class Flower : IComparable<Flower>
     {
         //Свойства
-        public string Name { get; set; }
+        public virtual string Name { get; set; }
         public int Cost { get; set; }
         public int StalkLength { get; set; }
 
