@@ -37,13 +37,8 @@ namespace ConsoleApplication1
                 f.Show();
             }
 
-            int Stoimost=0;
-                        
-            foreach (Flower f in flowers)
-            {
-                Stoimost = Stoimost + f.Cost;
-            }
-            Console.WriteLine("***** Стоимость данного букета=" + Stoimost+ " руб. *****\n");
+            Cost_Buket cost = new Cost_Buket();
+            cost.perform(flowers, 7);
 
             Console.ReadLine();
         }

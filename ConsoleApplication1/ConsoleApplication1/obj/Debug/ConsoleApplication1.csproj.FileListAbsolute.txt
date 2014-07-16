@@ -16,3 +16,9 @@ D:\Учёба\2-ой курс\Летняя практика\Задание1_Цв
 D:\Учёба\2-ой курс\Летняя практика\Задание1_Цветы\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 D:\Учёба\2-ой курс\Летняя практика\Задание1_Цветы\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 D:\Учёба\2-ой курс\Летняя практика\Задание1_Цветы\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+G:\Летняя практика\Задание1_Цветы\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\Летняя практика\Задание1_Цветы\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\Летняя практика\Задание1_Цветы\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\Летняя практика\Задание1_Цветы\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\Летняя практика\Задание1_Цветы\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\Летняя практика\Задание1_Цветы\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

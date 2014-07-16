@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    public abstract class Flower : IComparable<Flower>
+    public abstract class Flower:IComparable<Flower>
     {
         //Свойства
         public virtual string Name { get; set; }
@@ -35,5 +35,6 @@ namespace ConsoleApplication1
             else
                 return 0;
         }
+
     }
 }
