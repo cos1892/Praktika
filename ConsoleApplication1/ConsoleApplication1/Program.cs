@@ -40,6 +40,14 @@ namespace ConsoleApplication1
             Cost_Buket cost = new Cost_Buket();
             cost.perform(flowers, 7);
 
+            IEnumerable<Flower> result = new SearchFlower(flowers).Search(flowers, 100, 120);
+
+            Console.WriteLine("***** Результат поиска *****\n");
+            foreach (Flower item in result)
+            {
+                item.Show();
+            }
+
             Console.ReadLine();
         }
     }
